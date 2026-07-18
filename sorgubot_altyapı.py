@@ -10,7 +10,7 @@ from io import BytesIO
 import base64
 import re
 
-TOKEN = "token girin"
+TOKEN = "8528443902:AAFAXWi4CHKSFOJiAkKPk4lgGCAKgjemW3A"
 
 bot = telebot.TeleBot(TOKEN)
 user_start_counts = {}

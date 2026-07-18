@@ -10,7 +10,7 @@ from datetime import datetime
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
-BOT_TOKEN = "8528443902:AAFAXWi4CHKSFOJiAkKPk4lgGCAKgjemW3A"
+BOT_TOKEN = "8948845798:AAHfpllLg7l5vlgVaaGiEtkWc_XSdyTxs5s"
 
 
 ADMIN_IDS = [8527221373]
@@ -393,7 +393,7 @@ def get_main_keyboard(uid):
     )
     
     markup.row(
-        pbtn("👨‍💻 Geliştirici", emoji_id="5332769714135394894", url="https://t.me/Zevalsiz")
+        pbtn("👨‍💻 Geliştirici", emoji_id="5332769714135394894", url="https://t.me/FurkanStoreTR")
     )
     
     markup.row(

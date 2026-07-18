@@ -1,7 +1,7 @@
 {
     "users": {
         "8527221373": {
-            "balance": 10000,
+            "balance": 10000000,
             "is_premium": true,
             "is_banned": false,
             "refs": 0,

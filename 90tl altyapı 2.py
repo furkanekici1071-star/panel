@@ -10,7 +10,7 @@ from datetime import datetime
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
-BOT_TOKEN = "8528443902:AAFAXWi4CHKSFOJiAkKPk4lgGCAKgjemW3A"
+BOT_TOKEN = "8958834949:AAGEb2Pm_8xPkE_9YXiyMCNWHbRQF53RnLQ"
 
 
 ADMIN_IDS = [8527221373]
